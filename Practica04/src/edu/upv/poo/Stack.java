@@ -2,10 +2,6 @@ package edu.upv.poo;
 
 import java.util.ArrayList;
 
-/**
- *
- * @author luisroberto
- */
 public class Stack<T> {
     
     private ArrayList<T> items;

@@ -1,9 +1,5 @@
 package edu.upv.poo;
 
-/**
- *
- * @author luisroberto
- */
 public class Practica04 {
 
     /**
